@@ -1,5 +1,5 @@
 
-> Open this page at [https://tmtben.github.io/pxt-chronogame-v01/](https://tmtben.github.io/pxt-chronogame-v01/)
+> Open this page at [[https://tmtben.github.io/pxt-chronogame-v01](https://github.com/tmtben/pxt_microbit_chronogame_v01)/]
 
 ## Use as Extension
 
